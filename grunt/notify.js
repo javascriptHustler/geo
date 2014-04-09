@@ -7,8 +7,8 @@ module.exports = {
   },
 
   jshint: {
-  	options: {
-  		message: 'Code was linted'
-  	}
+    options: {
+      message: 'Code was linted'
+    }
   }
 }

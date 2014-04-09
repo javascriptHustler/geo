@@ -1,10 +1,10 @@
 module.exports = {
-	options: {
-		reporter: require('jshint-stylish')
-	},
+  options: {
+    reporter: require('jshint-stylish')
+  },
 
-	all: [
+  all: [
     'Gruntfile.js',
     'src/*.js'
-	]
+  ]
 };
