@@ -1,7 +1,7 @@
 module.exports = {
   browserify: {
     files: ['src/*.js','Gruntfile.js'],
-    tasks: ['browserify', 'notify:browserify']
+    tasks: ['browserify', 'uglify', 'notify:browserify']
   },
 
   jshint: {
