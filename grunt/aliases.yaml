@@ -1,0 +1,6 @@
+default:
+  - 'concurrent:first'
+test:
+  - 'connect:test'
+  - 'mocha'
+  - 'watch:test'
