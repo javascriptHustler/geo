@@ -1,5 +1,5 @@
 module.exports = {
-	dist: {
+  dist: {
     files: {
       'dist/geo.js': ['src/index.js'],
     }
