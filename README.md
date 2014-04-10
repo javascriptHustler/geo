@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>JSDoc: Global</title>
-
-</head>
-
-<body>
-
 <div id="main">
 
     
@@ -1801,12 +1791,6 @@
     <dd class="tag-source"><ul class="dummy"><li>
         <a href="geo.js.html">geo.js</a>, <a href="geo.js.html#line15">line 15</a>
     </li></ul></dd>
-    
-
-    
-
-    
-http://markable.in/account/signup/
     
 </dl>
 
